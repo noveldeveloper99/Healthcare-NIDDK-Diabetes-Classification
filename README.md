@@ -59,6 +59,8 @@ e)	Create bins of Age values – 20-25, 25-30, 30-35 etc. and analyse different 
 
 ---Final Tableau Dashboard can be accessed [here](https://public.tableau.com/views/CapstoneprojectHealthcareTableauDashboard/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![Final Dashboard](https://user-images.githubusercontent.com/98535942/218261888-9c5e7de1-3ad7-4f84-b54d-c4355c25a54e.png)
+
 Thanks
 
 Happy Coding!
